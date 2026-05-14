@@ -1,0 +1,40 @@
+{
+    "name": "fastchen/flarum-link-attribute",
+    "description": "Link attribute extension for Flarum",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0 || ^2.0"
+    },
+    "support": {
+        "issues": "https://github.com/fastchen/issues",
+        "source": "https://github.com/fastchen/",
+        "forum": "https://discuss.flarum.org/d/1"
+    },
+    "authors": [
+        {
+            "name": "FastChen",
+            "email": "me@fastchen.com"
+        }
+    ],
+    "homepage": "https://nullcraft.org/",
+    "funding": [
+        {
+            "type": "website",
+            "url": "https://docs.nullcraft.org/donate"
+        }
+    ],
+    "extra": {
+        "flarum-extension": {
+            "title": "Link Attribute",
+            "icon": {
+                "name": "fas fa-external-link-alt",
+                "backgroundColor": "#2BC2A6",
+                "color": "#fff"
+            }
+        }
+    }
+}

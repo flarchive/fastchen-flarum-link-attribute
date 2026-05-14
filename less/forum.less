@@ -1,0 +1,15 @@
+.Hero a[target="_blank"]:not(:has(img)),
+.PostStream a[target="_blank"]:not(:has(img)),
+footer a[target="_blank"]:not(:has(img))
+{
+    &::after {
+        content: '\f35d';
+        font-family: 'Font Awesome 5 Free', 'Font Awesome 7 Free';
+        font-weight: 900;
+        font-size: 0.9em;
+        margin-left: 0.25em;
+        margin-right: 0.25em;
+        display: inline-block;
+        text-decoration: none;
+    }
+}
