@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of fastchen/flarum-link-attribute.** Not for installation: use [Packagist](https://packagist.org/packages/fastchen/flarum-link-attribute) or the [upstream repository](https://github.com/FastChen/flarum-ext-link-attribute).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/fastchen-flarum-link-attribute/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0 || ^2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/fastchen-flarum-link-attribute/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0 || ^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-05-14 | `^1.0 || ^2.0` | [Browse](https://github.com/flarchive/fastchen-flarum-link-attribute/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/fastchen-flarum-link-attribute.json](https://github.com/flarchive/archive-index/blob/main/packages/fastchen-flarum-link-attribute.json)
 
